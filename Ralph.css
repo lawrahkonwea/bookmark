@@ -1,0 +1,36 @@
+#logo {
+width: 40%;
+height: 20%;
+margin: 0%;
+}
+ul {
+    position: relative;
+    display: flex;
+    left: 28%;
+    list-style-type:none;
+
+     gap: 1%;
+
+    
+}
+
+a:link{
+    text-decoration: none;
+    color: blue;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+    
+}
+
+a:hover  {
+    background-color: aqua;
+    color: brown;
+
+}
+
+#button1 {
+    position: relative;
+    left: 85%;
+    
+
+}
